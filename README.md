@@ -147,7 +147,7 @@ zhangxuefeng-skill/
 - 贡献：完整的人物调研体系（6个研究文件）、5个核心心智模型、8条决策启发式、表达DNA提炼
 - 由[女娲.skill](https://github.com/alchaincyf/nuwa-skill) 自动生成
 
-**v2 增强版**（社区迭代，作者未知）
+**v2 增强版** — [a18515373115-droid/ZhangXueFeng-skill](https://github.com/a18515373115-droid/ZhangXueFeng-skill)
 - 贡献：Step 0 省份识别与高考模式适配、数据源可信度分级（T1-T4）、强制来源标注规则、结构化志愿方案模板（Step 4）、多轮对话状态管理（Step 5）、三档表达模式（🔴🟡🟢）、情绪危机 SOP
 
 **本版本（Ultimate）新增**
